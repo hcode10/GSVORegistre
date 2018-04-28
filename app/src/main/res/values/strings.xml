@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GSVO Registre</string>
+
+    <!-- Strings related to login -->
+    <string name="name">&#160;Nom et Prénom</string>
+    <string name="nad">&#160;N° d\'adhesion</string>
+    <string name="objet_visite">&#160;Objet de la visite</string>
+    <string name="action_valider">Valider</string>
+
+    <string name="title_activity_what">Pourquoi ?</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>
